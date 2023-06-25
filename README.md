@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9F715&width=435&lines=Hey+there+👋🏻!)](https://git.io/typing-svg)
+
 # 💫 About Me:
-Working on my DSA skills.
+Web developer. Currently, working on my DSA skills.
 
 
 ## 🌐 Socials:
